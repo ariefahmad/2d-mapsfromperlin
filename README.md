@@ -1,2 +1,2 @@
 # 2d-mapsfromperlin
-Generating 2D maps by using perlin (or simplex) noise as a building block
+Generating 2D maps by using perlin noise as a building block
