@@ -1,7 +1,7 @@
 import numpy as np
 import random
 import tqdm
-from noise import snoise2
+from noise import snoise2  # simplex noise for 2d points
 
 class colour:
     """
